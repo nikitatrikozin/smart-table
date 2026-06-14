@@ -1,2 +1,7 @@
-https://github.com/nikitatrikozin/smart-table
-# sp6-2_smart-table_starter
+# Проект "Умная таблица"
+
+В данном проекте реализована работа с api. Настроены: фильтрация, поиск, пагинация, соритировка.
+
+## Ссылки
+
+- Репозиторий проекта: https://github.com/nikitatrikozin/smart-table
