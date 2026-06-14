@@ -9,7 +9,7 @@ export function initFiltering(elements) {
                     el.value = name;
 
                     return el;
-                }),
+                })
             );
         });
     };
